@@ -1,0 +1,12 @@
+Github uda dibikin. Github tempat upload file. 
+Tempat bikin di komputer ada di sourcetree something.
+Disana tempat bikin edit2 lucunya. 
+
+Read.md adalah tempat pembuatan notes/petunjuk
+Stage kalau penjelasan masi dibikin 
+Unstage kalau uda siap upload 
+Commit adalah hasil kerja fix 
+Nanti ada notes untuk kita sendiri.
+Push itu eksekusi 
+Pull itu batal eksekusi dan ditarik kembali hasil eksekusi 
+Fetch itu melihat hasil eksekusi 
